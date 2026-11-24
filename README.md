@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         AAKASH                                  -->
-<!--                   NEON DEVELOPER PROFILE                       -->
+<!--                 ENHANCED NEON DEVELOPER PROFILE                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -15,12 +15,14 @@
 
 <br/>
 
+<!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=080B18" />
 <img src="https://img.shields.io/badge/MODE-BUILDING-9D4EDD?style=for-the-badge&labelColor=080B18" />
 <img src="https://img.shields.io/badge/MINDSET-UNSTOPPABLE-FF35C6?style=for-the-badge&labelColor=080B18" />
 
 <br/><br/>
 
+<!-- LIVE COUNTER BADGES -->
 <a href="https://github.com/Nexa-pay">
 <img src="https://img.shields.io/github/followers/Nexa-pay?style=for-the-badge&logo=github&label=FOLLOWERS&color=9D4EDD&labelColor=080B18" />
 </a>
@@ -33,19 +35,16 @@
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<!-- ANIMATED NEON DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:9D4EDD,100:FF35C6" />
 
 <br/>
 
-<!-- ABOUT SECTION -->
-
+<!-- WHO AM I SECTION -->
 <h2 align="center">◈ &nbsp; WHO AM I? &nbsp; ◈</h2>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&lines=Not+just+writing+code...;Building+ideas+into+reality.;Learning.+Experimenting.+Evolving." />
-
 </div>
 
 <br/>
@@ -54,13 +53,9 @@
 <h2 align="center">👨‍💻 ABOUT ME</h2>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=650&height=40&lines=NAME%3A+AAKASH;ROLE%3A+DEVELOPER;PERSONALITY%3A+CURIOUS;MINDSET%3A+GROWTH;STATUS%3A+ALWAYS+LEARNING" />
-
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=600&color=FF35C6&center=true&vCenter=true&width=700&height=100&lines=Python+Development+%7C+Artificial+Intelligence;Telegram+Automation+%7C+Linux+%26+VPS;Backend+Development+%7C+Open+Source;Building+useful+things+with+code." />
-
 </div>
 
 <br/>
@@ -69,9 +64,38 @@
 <h2 align="center">⚡ DEVELOPER TERMINAL</h2>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=700&color=00E5FF&center=true&vCenter=true&width=700&height=180&lines=%24+whoami+%E2%86%92+AAKASH;Developer+%26+Creator;%24+current_mode+%E2%86%92+BUILDING;%24+passion+%E2%86%92+TECHNOLOGY;%24+philosophy+%E2%86%92+THINK+DIFFERENT;%24+status+%E2%86%92+ONLINE+%E2%97%8F" />
+</div>
 
+<br/>
+
+<!-- TECH STACK GRAPHICS -->
+<h2 align="center">🛠️ TECH STACK & INFRASTRUCTURE</h2>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,bash,git,github,mongodb,redis,postgres,nginx,cloudflare&perline=6" />
+</div>
+
+<br/>
+
+<!-- GITHUB TELEMETRY GRAPHICS -->
+<h2 align="center">📊 LIVE STATS & ACTIVITY</h2>
+
+<div align="center">
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nexa-pay&show_icons=true&hide_border=true&bg_color=080B18&title_color=00E5FF&icon_color=9D4EDD&text_color=E2E8F0&include_all_commits=true&count_private=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexa-pay&layout=compact&langs_count=6&hide_border=true&bg_color=080B18&title_color=FF35C6&text_color=E2E8F0" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Nexa-pay&hide_border=true&background=080B18&ring=9D4EDD&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexa-pay&bg_color=080B18&color=00E5FF&line=9D4EDD&point=FF35C6&area=true&area_color=5425A8&hide_border=true" width="95%" />
 </div>
 
 <br/>
