@@ -75,105 +75,17 @@ mission: >
   Build useful things,
   automate the boring,
   explore the impossible.
-</td>
-<td width="50%" valign="top">
 
-┌──[AAKASH@developer]
-│
-├─$ whoami
-│  Developer & Creator
-│
-├─$ current_mode
-│  Building & Learning
-│
-├─$ passion
-│  Technology & Innovation
-│
-├─$ philosophy
-│  Think Different.
-│  Build Better.
-│
-└─$ status
-   ONLINE ●
-
-</td>
-</tr>
-</table>
-<br/>
-<!-- TECH STACK -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF35C6,50:9D4EDD,100:00E5FF" />
-<h2 align="center">⚙️ &nbsp; TECH ARSENAL</h2>
+<!-- ANIMATED ABOUT ME -->
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,js,html,css&theme=dark&perline=5" />
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github&theme=dark&perline=5" />
-<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,nginx,githubactions&theme=dark&perline=5" />
-<img src="https://skillicons.dev/icons?i=mongodb,redis,fastapi,flask,postman&theme=dark&perline=5" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=650&height=40&lines=NAME%3A+AAKASH;ROLE%3A+DEVELOPER;PERSONALITY%3A+CURIOUS;MINDSET%3A+GROWTH;STATUS%3A+ALWAYS+LEARNING" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=600&color=FF35C6&center=true&vCenter=true&width=700&height=100&lines=Python+Development+%7C+Artificial+Intelligence;Telegram+Automation+%7C+Linux+%26+VPS;Backend+Development+%7C+Open+Source;Building+useful+things+with+code." />
 </div>
 <br/>
-<!-- TECH BADGES -->
+<!-- ANIMATED TERMINAL -->
+<h2 align="center">⚡ DEVELOPER TERMINAL</h2>
 <div align="center">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=700&color=00E5FF&center=true&vCenter=true&width=700&height=180&lines=%24+whoami+%E2%86%92+AAKASH;Developer+%26+Creator;%24+current_mode+%E2%86%92+BUILDING;%24+passion+%E2%86%92+TECHNOLOGY;%24+philosophy+%E2%86%92+THINK+DIFFERENT;%24+status+%E2%86%92+ONLINE+%E2%97%8F" />
 </div>
-<br/>
-<!-- GITHUB STATISTICS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:9D4EDD,100:FF35C6" />
-<h2 align="center">📊 &nbsp; GITHUB INTELLIGENCE</h2>
-<div align="center">
-<img width="96%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=080B18&title_color=00E5FF&icon_color=FF35C6&text_color=E6EDF3&ring_color=9D4EDD&rank_icon=github" />
-<img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=E6EDF3" />
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=080B18&ring=00E5FF&fire=FF35C6&currStreakLabel=00E5FF&sideLabels=9D4EDD&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</div>
-<br/>
-<!-- CONTRIBUTION GRAPH -->
-<h2 align="center">🌌 &nbsp; CONTRIBUTION UNIVERSE</h2>
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080B18&color=00E5FF&line=9D4EDD&point=FF35C6&area=true&area_color=5425A8&hide_border=true&custom_title=AAKASH%20%7C%20CONTRIBUTION%20ACTIVITY" />
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=2077" />
-</div>
-<br/>
-<!-- SNAKE ANIMATION -->
-<h2 align="center">🐍 &nbsp; CONTRIBUTION SNAKE</h2>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</div>
-<br/>
-<!-- DEVELOPER MINDSET -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF35C6,50:9D4EDD,100:00E5FF" />
-<h2 align="center">🚀 &nbsp; MY DEVELOPER MINDSET</h2>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-</td>
-<td align="center" width="33%">
-
-</td>
-<td align="center" width="33%">
-
-</td>
-</tr>
-</table>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=FF35C6&center=true&vCenter=true&width=650&lines=Dream+Big.+Start+Small.+Build+Great.;Consistency+is+the+real+superpower.;Keep+building.+Keep+evolving.+%E2%9A%A1" />
-</div>
-<br/>
-<!-- CONNECT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:9D4EDD,100:FF35C6" />
-<h2 align="center">🌐 &nbsp; CONNECT WITH ME</h2>
-<div align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-080B18?style=for-the-badge&logo=github&logoColor=00E5FF" />
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=You+are+awesome+for+being+here+%E2%9C%A8;See+you+in+the+next+commit+%F0%9F%9A%80" />
-</div>
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00D9FF,25:5425A8,60:AE28B8,100:050816&animation=twinkling" />
-<div align="center">
-</div>
-```
