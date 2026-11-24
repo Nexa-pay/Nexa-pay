@@ -58,3 +58,16 @@
 
 ```yaml
 
+<!-- ANIMATED ABOUT ME -->
+<h2 align="center">👨‍💻 ABOUT ME</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=650&height=40&lines=NAME%3A+AAKASH;ROLE%3A+DEVELOPER;PERSONALITY%3A+CURIOUS;MINDSET%3A+GROWTH;STATUS%3A+ALWAYS+LEARNING" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=600&color=FF35C6&center=true&vCenter=true&width=700&height=100&lines=Python+Development+%7C+Artificial+Intelligence;Telegram+Automation+%7C+Linux+%26+VPS;Backend+Development+%7C+Open+Source;Building+useful+things+with+code." />
+</div>
+<br/>
+<!-- ANIMATED TERMINAL -->
+<h2 align="center">⚡ DEVELOPER TERMINAL</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=700&color=00E5FF&center=true&vCenter=true&width=700&height=180&lines=%24+whoami+%E2%86%92+AAKASH;Developer+%26+Creator;%24+current_mode+%E2%86%92+BUILDING;%24+passion+%E2%86%92+TECHNOLOGY;%24+philosophy+%E2%86%92+THINK+DIFFERENT;%24+status+%E2%86%92+ONLINE+%E2%97%8F" />
+</div>
