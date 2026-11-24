@@ -57,25 +57,6 @@
 ### 👨‍💻 ABOUT ME
 
 ```yaml
-name: AAKASH
-role: Developer
-personality: Curious
-mindset: Growth
-status: Always Learning
-
-interests:
-  - Python Development
-  - Artificial Intelligence
-  - Telegram Automation
-  - Linux & VPS
-  - Backend Development
-  - Open Source
-
-mission: >
-  Build useful things,
-  automate the boring,
-  explore the impossible.
-
 <!-- ANIMATED ABOUT ME -->
 <h2 align="center">👨‍💻 ABOUT ME</h2>
 <div align="center">
